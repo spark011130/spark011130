@@ -1,6 +1,6 @@
 # Hi there, I'm Suyoung 👋
 
-![banner](https://i.imgur.com/bu7DmA2.jpg)
+![banner](https://i.imgur.com/26RV5BC.jpeg)
 
 ### About Me
 I am passionate about AI, its applications, and research in this field. Let's connect!

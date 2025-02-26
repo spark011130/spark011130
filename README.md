@@ -3,7 +3,7 @@
 ![banner](https://i.imgur.com/bu7DmA2.jpg)
 
 ### About Me
-I am passionate about technology, programming, and open-source projects. Let's connect!
+I am passionate about AI, its applications, and research in this field. Let's connect!
 
 ### Socials
 <p align="left">

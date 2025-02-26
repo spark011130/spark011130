@@ -1,5 +1,3 @@
-# Hi there, I'm Suyoung 👋
-
 ![banner](https://i.imgur.com/26RV5BC.jpeg)
 
 ### About Me

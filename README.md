@@ -1,6 +1,6 @@
 # Hi there, I'm Suyoung 👋
 
-![banner]([https://your-banner-image-url](https://imgur.com/a/FBwmaEg)) <!-- 배너 이미지 URL 추가 -->
+![banner]([[https://your-banner-image-url](https://imgur.com/a/FBwmaEg)]) <!-- 배너 이미지 URL 추가 -->
 
 ### About Me
 I am passionate about technology, programming, and open-source projects. Let's connect!

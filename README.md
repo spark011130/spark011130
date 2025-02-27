@@ -27,13 +27,23 @@
   <img src="https://img.shields.io/badge/transformer-white?style=for-the-badge">
   <img src="https://img.shields.io/badge/diffusion-white?style=for-the-badge">
 
-<h3 align="center">📝 Writings 📝</h3>
+<h3 align="center">📝 Writing 📝</h3>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Jgt8XGhTf-rPfKWoY9PngQFZfS4xxiph/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/📄 Bitcoin_Price_Prediction_using_ARMA_Model-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Bitcoin Price Prediction using ARMA Model">
+    <img src="https://img.shields.io/badge/2022_Bitcoin_Price_Prediction_using_ARMA_Model-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Bitcoin Price Prediction using ARMA Model">
   </a>
 </p>
+
+<h3 align="center">🧮 Personal Interest 🧮</h3>
+
+<p align="center">
+  <a href="https://solved.ac/spark_1130/" target="_blank" rel="noopener noreferrer">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=spark_1130" alt="Solved.ac Profile">
+  </a>
+</p>
+
+<h3 align="center">🙌 Contact 🙌</h3>
 
 <p align="center">
   <a href="https://www.github.com/spark011130" target="_blank" rel="noreferrer">
@@ -50,4 +60,6 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
+</p>
+
 </p>

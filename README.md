@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h3 align="center">🧮 Personal Interest 🧮</h3>
+<h3 align="center">🤓 Personal Interest 🤓</h3>
 
 <p align="center">
   <a href="https://solved.ac/spark_1130/" target="_blank" rel="noopener noreferrer">

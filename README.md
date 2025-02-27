@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/transformer-white?style=for-the-badge">
   <img src="https://img.shields.io/badge/diffusion-white?style=for-the-badge">
 
-<h3 align="center">📝 Writing 📝</h3>
+<h3 align="center">👨‍🏫 Project 👨‍🏫</h3>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Jgt8XGhTf-rPfKWoY9PngQFZfS4xxiph/view?usp=sharing" target="_blank" rel="noopener noreferrer">

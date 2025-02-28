@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/time series-violet?style=for-the-badge">
   <img src="https://img.shields.io/badge/LSTM-violet?style=for-the-badge">
   <img src="https://img.shields.io/badge/transformer-violet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/diffusion-violet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/embeddings-violet?style=for-the-badge">
 
 <h2 align="center">👨‍🏫 Project 👨‍🏫</h2>
 

@@ -31,13 +31,17 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Jgt8XGhTf-rPfKWoY9PngQFZfS4xxiph/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/time_series-2022_Bitcoin_Price_Prediction_using_ARMA_Model-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Bitcoin Price Prediction using ARMA Model">
-  </a>
+    <img src="https://img.shields.io/badge/2022_Bitcoin_Price_Prediction_using_ARMA_Model-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Bitcoin Price Prediction using ARMA Model">
+  </a><br/>
+  <img src="https://img.shields.io/badge/time series-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/regression-orange?style=for-the-badge">
 </p>
 <p align="center">
   <a href="https://github.com/spark011130/AMS325-Project" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/dnn-2024_Face_Asthetic_Evaluation_Using_Golden_Ratio-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Face_Asthetic_Evaluation_Using_Golden_Ratio">
-  </a>
+    <img src="https://img.shields.io/badge/2024_Face_Asthetic_Evaluation_Using_Golden_Ratio-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Face_Asthetic_Evaluation_Using_Golden_Ratio">
+  </a><br/>
+  <img src="https://img.shields.io/badge/DNN-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/computer_vision-orange?style=for-the-badge">
 </p>
 
 <h3 align="center">🤓 Personal Interest 🤓</h3>

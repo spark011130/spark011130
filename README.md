@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/26RV5BC.jpeg)
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/selenium-green?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h2 align="center">📚 Studying 📚</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/time series-white?style=for-the-badge">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/transformer-white?style=for-the-badge">
   <img src="https://img.shields.io/badge/diffusion-white?style=for-the-badge">
 
-<h3 align="center">👨‍🏫 Project 👨‍🏫</h3>
+<h2 align="center">👨‍🏫 Project 👨‍🏫</h2>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Jgt8XGhTf-rPfKWoY9PngQFZfS4xxiph/view?usp=sharing" target="_blank" rel="noopener noreferrer">
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/computer_vision-orange?style=for-the-badge">
 </p>
 
-<h3 align="center">🤓 Personal Interest 🤓</h3>
+<h2 align="center">🤓 Personal Interest 🤓</h2>
 
 <p align="center">
   <a href="https://solved.ac/spark_1130/" target="_blank" rel="noopener noreferrer">
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<h3 align="center">🙌 Contact 🙌</h3>
+<h2 align="center">🙌 Contact 🙌</h2>
 
 <p align="center">
   <a href="https://www.github.com/spark011130" target="_blank" rel="noreferrer">

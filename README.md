@@ -33,13 +33,27 @@
   <a href="https://drive.google.com/file/d/1Jgt8XGhTf-rPfKWoY9PngQFZfS4xxiph/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/2022_Bitcoin_Price_Prediction_using_ARMA_Model-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Bitcoin Price Prediction using ARMA Model">
   </a><br/>
+  <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/time series-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/regression-orange?style=for-the-badge">
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/spark011130/SW-Certification" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/2024_Government_Software_Certification-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Government Software Certification">
+  </a><br/>
+  <img src="https://img.shields.io/badge/Soccer-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/YOLO-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/flask-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge">
+</p>
+
 <p align="center">
   <a href="https://github.com/spark011130/AMS325-Project" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/2024_Face_Asthetic_Evaluation_Using_Golden_Ratio-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Face_Asthetic_Evaluation_Using_Golden_Ratio">
+    <img src="https://img.shields.io/badge/2024_Face_Asthetic_Evaluation_Using_Golden_Ratio-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Face Asthetic Evaluation Using Golden Ratio">
   </a><br/>
+  <img src="https://img.shields.io/badge/face-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/DNN-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/computer_vision-orange?style=for-the-badge">
 </p>

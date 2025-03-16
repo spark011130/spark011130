@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/spark011130/Attention-LSTM_Stock-Trading" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/2025_Attention_LSTM_Based_Trading-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Attention LSTM based trading">
+    <img src="https://img.shields.io/badge/2025_Bitcoin_Price_Prediction_using_Attnetion_LSTM_Model-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Attention LSTM based trading">
   </a><br/>
   <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/LSTM-orange?style=for-the-badge">

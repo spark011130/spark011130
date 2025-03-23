@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/spark011130/Attention-LSTM_Stock-Trading" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/spark011130/ALSTM_UPBIT_TRADING_BOT" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/2025_Attnetion_LSTM_Trading_Bot-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Attention LSTM trading bot">
   </a><br/>
   <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
@@ -86,8 +86,6 @@
 </p>
 
 <h2 align="center">🙌 Contact 🙌</h2>
-
-
 
 <p align="center">
   <a href="https://velog.io/@spark1130/posts" target="_blank" rel="noopener noreferrer">

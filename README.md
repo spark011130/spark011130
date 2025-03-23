@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/time series-violet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LSTM-violet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CLIP-violet?style=for-the-badge">
   <img src="https://img.shields.io/badge/transformer-violet?style=for-the-badge">
   <img src="https://img.shields.io/badge/embedding-violet?style=for-the-badge">
 
@@ -65,6 +65,17 @@
   <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/LSTM-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/attntion-orange?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/spark011130/Attention-LSTM_Stock-Trading" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/2025_Attnetion_LSTM_Trading_Bot-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Attention LSTM trading bot">
+  </a><br/>
+  <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LSTM-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/attntion-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/project_management-orange?style=for-the-badge">
+</p>
 
 <h2 align="center">🤓 Personal Interest 🤓</h2>
 
@@ -76,21 +87,18 @@
 
 <h2 align="center">🙌 Contact 🙌</h2>
 
-<p align="center">
-  <a href="https://www.github.com/spark011130" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/suyoung-park-03658a26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
 
+
+<p align="center">
+  <a href="https://velog.io/@spark1130/posts" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Velog-green?style=for-the-badge&logo=Velog" alt="Velog">
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/suyoung-park-03658a26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=logmein" alt="Linkedin">
+  </a> 
+  
+  <a href="mailto:phkmath0@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a> 
 </p>

@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/flask-gray?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazon ec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazon%20ec2-orange?style=for-the-badge&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/selenium-green?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Jgt8XGhTf-rPfKWoY9PngQFZfS4xxiph/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/2022_Bitcoin_Price_Prediction_using_ARMA_Model-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Bitcoin Price Prediction using ARMA Model">
+    <img src="https://img.shields.io/badge/2022_Bitcoin_Price_Prediction_using_ARMA_Model-blue?style=for-the-badge&logo=google%20docs&logoColor=white" alt="Bitcoin Price Prediction using ARMA Model">
   </a><br/>
   <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/time series-orange?style=for-the-badge">
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/spark011130/SW-Certification" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/2024_Government_Software_Certification-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Government Software Certification">
+    <img src="https://img.shields.io/badge/2024_Government_Software_Certification-blue?style=for-the-badge&logo=google%20docs&logoColor=white" alt="Government Software Certification">
   </a><br/>
   <img src="https://img.shields.io/badge/Soccer-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/YOLO-orange?style=for-the-badge">
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/spark011130/AMS325-Project" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/2024_Face_Asthetic_Evaluation_Using_Golden_Ratio-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Face Asthetic Evaluation Using Golden Ratio">
+    <img src="https://img.shields.io/badge/2024_Face_Asthetic_Evaluation_Using_Golden_Ratio-blue?style=for-the-badge&logo=google%20docs&logoColor=white" alt="Face Asthetic Evaluation Using Golden Ratio">
   </a><br/>
   <img src="https://img.shields.io/badge/face-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/DNN-orange?style=for-the-badge">
@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/spark011130/Attention-LSTM_Stock-Trading" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/2025_Bitcoin_Price_Prediction_using_Attnetion_LSTM_Model-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Attention LSTM based trading">
+    <img src="https://img.shields.io/badge/2025_Bitcoin_Price_Prediction_using_Attnetion_LSTM_Model-blue?style=for-the-badge&logo=google%20docs&logoColor=white" alt="Attention LSTM based trading">
   </a><br/>
   <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/LSTM-orange?style=for-the-badge">
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/spark011130/ALSTM_UPBIT_TRADING_BOT" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/2025_Attnetion_LSTM_Trading_Bot-blue?style=for-the-badge&logo=google docs&logoColor=white" alt="Attention LSTM trading bot">
+    <img src="https://img.shields.io/badge/2025_Attnetion_LSTM_Trading_Bot-blue?style=for-the-badge&logo=google%20docs&logoColor=white" alt="Attention LSTM trading bot">
   </a><br/>
   <img src="https://img.shields.io/badge/bitcoin-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/LSTM-orange?style=for-the-badge">

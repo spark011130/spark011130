@@ -22,10 +22,9 @@
 <h2 align="center">📚 Studying 📚</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/time series-violet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CLIP-violet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/transformer-violet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/embedding-violet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VAE-violet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GAN-violet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DIFFUSION-violet?style=for-the-badge">
 
 <h2 align="center">👨‍🏫 Project 👨‍🏫</h2>
 
